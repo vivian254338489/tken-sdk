@@ -87,6 +87,14 @@ For testing, you can get access from:
 - Free tier available
 - No credit card required
 
+## Need Gateway Features?
+
+If you need multi-account key pools, automatic `429` retry, proxy rotation, or model-aware routing in front of your SDK calls, see:
+
+- [free-openai-starter](https://github.com/vivian254338489/free-openai-starter)
+
+That repository is the gateway / proxy manager companion to this SDK.
+
 ## Error Handling
 
 ```typescript
